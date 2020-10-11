@@ -34,7 +34,7 @@ function setup() {
 	fill(250,0,0);
 	World.add(world, boxSprite2);
 	
-	boxSprite3=Bodies.rectangle(340, 650, 200, 20, {isStatic:true});
+	boxSprite3=Bodies.rectangle(340, 630, 200, 20, {isStatic:true});
 	fill(250,0,0);
 	
 	World.add(world, boxSprite3);
